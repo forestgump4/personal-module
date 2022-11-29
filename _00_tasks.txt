@@ -1,0 +1,10 @@
+shit to turn into a module and implant it to the surrogate mother
+
+# a word of advice, use classes if you are gonna make something
+# that has many functions in it with the same input
+# otherwise, make it simple and use functions
+
+
+1. yes or no question asking
+2. the signer
+3. file opener and importer and saver
